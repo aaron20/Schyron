@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schyron</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wght">Weight(lbs)</string>
+    <string name="weight"></string>
+    <string name="hght">Height(ft.)</string>
+    <string name="height"></string>
+    <string name="hg"></string>
+    <string name="calculate">Calculate</string>
+    <string name="calculatebutton">Calculate</string>
+    <string name="weightLabel">Weight(lbs)</string>
+    <string name="heightLabel">Height(ft.)</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="EmptyString"></string>
+
+</resources>
